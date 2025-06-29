@@ -8,6 +8,11 @@ Corrected incorrect data types to match the expected format.
 Replaced null values in the Product Category column with appropriate substitute values to ensure completeness.
 ## Key Metrics
 ![image](https://github.com/user-attachments/assets/001ae1ab-b8cb-4e35-9dce-94eb2eb4c927)
+## Project Insights
+Apply targeted discounts and bundle offers on high-priced, low-selling products to increase purchase intent.
+Enhance product descriptions, images, and specifications to reduce customer confusion and return rates.
+Introduce loyalty tiers (Platinum, Gold, Silver, Basic) with escalating benefits to retain and reward customers.
+Track trends in sales, returns, and ratings to iteratively improve product, logistics, and marketing performance.
 ## DashBoard
 ![image](https://github.com/user-attachments/assets/03f5d873-81cc-4498-ba07-b26aaa642ca8)
 ## Conclusion 
