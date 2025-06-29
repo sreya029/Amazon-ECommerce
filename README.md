@@ -6,6 +6,6 @@ Amazon a company currently performing well. The stakeholders wish to maintain th
 ## DashBoard
 ![image](https://github.com/user-attachments/assets/03f5d873-81cc-4498-ba07-b26aaa642ca8)
 ## Conclusion 
-=> Revenue shows year-on-year growth, with a major spike in 2020, likely due to increased online adoption.
-=> Products like Canon EOS 600D, Fashion, and Electronics dominate revenue, but high-ticket underperformers need targeted promotions.
-=> Delivery experience directly impacts ratings, especially for products shipped from abroad—transparency and speed are key levers here.
+Revenue shows year-on-year growth, with a major spike in 2020, likely due to increased online adoption.
+Products like Canon EOS 600D, Fashion, and Electronics dominate revenue, but high-ticket underperformers need targeted promotions.
+Delivery experience directly impacts ratings, especially for products shipped from abroad—transparency and speed are key levers here.
